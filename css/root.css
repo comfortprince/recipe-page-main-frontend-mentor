@@ -1,0 +1,16 @@
+:root{
+    --header-font: 'Young Serif';
+    --brown: #7a402a;
+    --purple: #97667a;
+    --light-purple: #fff7fc;
+    --body-font: 'Outfit Thin';
+    --border-radius: 0.5em;
+    --body-color: #303030;
+    --body-line-height: 1.6rem;
+    --vertical-space-btwn: 1.3rem;
+    --x-sm-container-padding: 2rem;
+    --sm-container-padding: 2rem;
+    --md-container-padding: 4rem;
+    --lg-container-padding: 6rem;
+    --x-lg-container-padding: 6rem;
+}
