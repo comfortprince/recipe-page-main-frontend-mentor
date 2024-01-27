@@ -1,0 +1,63 @@
+.text-nutmeg{
+    color: var(--nutmeg);
+}
+
+.text-dark-raspberry{
+    color: var(--darkRaspberry);
+}
+
+.text-white{
+    color: var(--white);
+}
+
+.text-rose-white{
+    color: var(--roseWhite);
+}
+
+.text-egg-shell{
+    color: var(--eggshell);
+}
+
+.text-light-grey{
+    color: var(--lightGrey);
+}
+
+.text-wenge-brown{
+    color: var(--wengeBrown);
+}
+
+.text-dark-charcoal{
+    color: var(--darkCharcoal);
+}
+
+.bg-nutmeg{
+    background-color: var(--nutmeg);
+}
+
+.bg-dark-raspberry{
+    background-color: var(--darkRaspberry0);
+}
+
+.bg-white{
+    background-color: var(--white);
+}
+
+.bg-rose-white{
+    background-color: var(--roseWhite);
+}
+
+.bg-egg-shell{
+    background-color: var(--eggshell);
+}
+
+.bg-light-grey{
+    background-color: var(--lightGrey);
+}
+
+.bg-wenge-brown{
+    background-color: var(--wengeBrown);
+}
+
+.bg-dark-charcoal{
+    background-color: var(--darkCharcoal);
+}
