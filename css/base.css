@@ -26,6 +26,16 @@
     --header-padding: 1rem;
 }
 
+@font-face {
+    font-family: Outfit;
+    src: url(fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: young-serif;
+    src: url(fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
 *{
     box-sizing: border-box;
     margin: 0;
